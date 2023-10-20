@@ -1,22 +1,3 @@
-<!-- <!DOCTYPE html>
-<html>
-<head>
-    <title>Tambah Product</title>
-</head>
-<body>
-    <h1>Tambah Product</h1>
-    <form action="<?= base_url('insertproducts') ?>" method="post">
-        <label for="nama_product">Nama Product:</label>
-        <input type="text" name="nama_product" id="nama_product" required><br><br>
-        
-        <label for="description">Deskripsi:</label>
-        <textarea name="description" id="description" required></textarea><br><br>
-        
-        <input type="submit" value="Tambah">
-    </form>
-</body>
-</html> -->
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -131,6 +112,5 @@
         </div>
         </div>
     </form>
-<script src="/js/main.js"></script>
 </body>
 </html>
